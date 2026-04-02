@@ -1,0 +1,2 @@
+print("Hello, World!")
+print("Perkenalkan!");print("Nama :Muhammad Rizqy Firdaus");print("Umur :16 tahun");print("Alamat :Kp.Sukamenak");print("Hobi :Bermain Game");print("Nama Sekolah :SMK PGRI 35 SOLJER");print("Cita-cita :Menjadi Polisi")
